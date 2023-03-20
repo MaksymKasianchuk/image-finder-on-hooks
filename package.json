@@ -2,6 +2,7 @@
   "name": "react-3-image-finder",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://maksymkasianchuk.github.io/image-finder-on-hooks/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
